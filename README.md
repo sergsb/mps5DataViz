@@ -1,2 +1,3 @@
-# mps5DataViz
-Univie, MPS5, Data Visualisation,  Spring 2024
+# MPS5 Course, Data Visualisation, University of Vienna, Spring 2024
+
+
