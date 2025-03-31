@@ -9,3 +9,4 @@ ipython
 molcomplib
 notebook<7
 umap-learn
+setuptools
