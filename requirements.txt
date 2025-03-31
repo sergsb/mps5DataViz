@@ -1,0 +1,11 @@
+pandas
+numpy
+rdkit
+scikit-learn
+ipywidgets
+matplotlib
+pillow==9.2.0
+ipython
+molcomplib
+notebook<7
+umap-learn
